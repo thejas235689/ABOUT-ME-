@@ -2,7 +2,7 @@
   
 ## 🔬 Senior Design Verification Engineer | RTL Design | SystemVerilog Enthusiast |  coco-tb Enthusiast | Formal Enthusiast| Low power Enthusiast .
 
-> Passionate about ensuring silicon works right the first time through comprehensive verification methodologies and innovative testbench architectures.
+> Passionate about ensuring silicon works right the first time through comprehensive verification methodologies and innovative testbench architectures and develop the front-end research in Design Verification Engineer. 
 
 ### 🚀 What I Do
 - **Verification Methodologies**: UVM, OVM, Constrained Random Verification
